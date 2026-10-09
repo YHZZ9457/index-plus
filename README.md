@@ -4,8 +4,10 @@ Windows 桌面悬浮窗。
 
 [下载最新安装包](https://github.com/YHZZ9457/index-plus/releases/latest)
 
+1.0.4 更新：改善紧凑模式字体，放大指数、点位、涨跌幅与今日动作，大数字自动适配宽度。
+
 1.0.3 更新：悬浮窗宽度进一步收窄至 280，标准视图 280×140、紧凑视图 280×112。
 
 1.0.2 更新：优化紧凑悬浮界面，在线行情自动同步已核验的最新行情日。
 
-安装：下载 Releases 中的 VStrategyWidget-Setup-1.0.3.exe 并运行。SHA256 校验值见同一版本的 SHA256SUMS.txt。
+安装：下载 Releases 中的 VStrategyWidget-Setup-1.0.4.exe 并运行。SHA256 校验值见同一版本的 SHA256SUMS.txt。
